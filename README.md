@@ -1,1 +1,3 @@
-Some projects with Arduino
+Projects source with Arduino
+
+Arduino howto are in the wiki.
